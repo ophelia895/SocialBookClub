@@ -11,4 +11,4 @@ Nell'applicazione è possibile cercare informazioni sui libri e un utente partic
 ### Caratteristiche
 * Uso Firebase per gestione utenti, database
 
-![Logo](https://i.pinimg.com/564x/b2/78/85/b278851c84e850151807b612a0199e5e.jpg)
+![Logo](https://i.pinimg.com/564x/b2/78/85/b278851c84e850151807b612a0199e5e.jpg)   ![Logo](https://i.pinimg.com/564x/fd/42/e2/fd42e2c7cdf93a65eeeb0da00c857abc.jpg)
