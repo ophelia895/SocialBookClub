@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Library.MainActivityListBook">
+    <LinearLayout
+        android:id="@+id/idLLsearch2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="5">
+
+        <EditText
+            android:id="@+id/idEdtSearchBooks2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:textColorHighlight="@color/purple_500"
+            android:textColorHint="#716969"
+            android:textColorLink="@color/purple_500"
+            android:textCursorDrawable="@drawable/ic_cursor2" />
+
+        <ImageButton
+            android:id="@+id/idBtnSearch2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#FFC107"
+            android:src="@android:drawable/ic_menu_zoom" />
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/idRVBooks2"
+        android:layout_width="match_parent"
+        android:layout_height="700dp"
+        android:layout_below="@id/idLLsearch2" />
+
+    <ProgressBar
+        android:id="@+id/idLoadingPB2"
+        android:layout_width="21dp"
+        android:layout_height="19dp"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+</RelativeLayout>

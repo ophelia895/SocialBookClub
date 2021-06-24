@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189023652658",
+    "project_id": "socialbookclub-35a13",
+    "storage_bucket": "socialbookclub-35a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189023652658:android:8d810af673a001c3fa252b",
+        "android_client_info": {
+          "package_name": "com.example.socialbookclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189023652658-6c6pjflmeq1qbc38g8u3lgv9brule82u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ78vpZ6NRWAUzbezFOIu8ivQkrcQxmus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189023652658-6c6pjflmeq1qbc38g8u3lgv9brule82u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
