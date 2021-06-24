@@ -9,4 +9,4 @@ Nell'applicazione è possibile cercare informazioni sui libri e un utente partic
 - [ ]  Bug in AdapterComment.
 ------
 ### Caratteristiche
-*Uso Firebase per gestione utenti, database
+* Uso Firebase per gestione utenti, database
