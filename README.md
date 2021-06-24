@@ -1,4 +1,4 @@
 # SocialBookClub
-Prog.PeO
-Problem in ActivitySearcProfile
-Problem in AdapterComment
+Prog.PeO.
+Bug in ActivitySearcProfile.
+Bug in AdapterComment.
